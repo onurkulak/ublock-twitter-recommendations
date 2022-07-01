@@ -1,0 +1,2 @@
+twitter.com##div > span > span:has-text(/^Follow Topic$/):upward(article):upward(3)
+twitter.com##div > a > span:has-text(/^See more$/):upward(article):upward(3)
